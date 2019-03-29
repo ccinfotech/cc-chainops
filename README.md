@@ -18,7 +18,8 @@ Download and Install Chainops-Connector:
 
 Note:
 -----
-For Windows Users,
+For Windows Users:
+------------------
     - Share any one of the physical drive for Docker Volumes.
     - Make Sure the AntiVirus Softwares not blocked the file written.
     
