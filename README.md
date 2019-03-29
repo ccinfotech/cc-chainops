@@ -15,16 +15,16 @@ Download and Install Chainops-Connector:
 	
     -	Signup and Get the Chainops connector as per your Operating system.
     -	Connectors available for the following Operating Systems.
-	      -	Ubuntu
-              -	Windows
-              -	Mac
+	    -	Ubuntu
+            -	Windows
+            -	Mac
     -	Make Sure 8888 port is available for chainops connector.
 
 Note:
 -----
 For Windows Users,
-     -	Share any one of the physical drive for Docker Volumes.
-     -	Make Sure the AntiVirus Softwares not blocked the file written.
+	-	Share any one of the physical drive for Docker Volumes.
+     	-	Make Sure the AntiVirus Softwares not blocked the file written.
 
 Reference Link: 
 ---------------
