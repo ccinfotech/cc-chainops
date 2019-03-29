@@ -10,15 +10,13 @@ To Install Docker, follow the below links as per your Operating Systems.
 
 Download and Install Chainops-Connector:
 ----------------------------------------
-
-	GoTo URL - https://cc-chainops.com
-	
-    -	Signup and Get the Chainops connector as per your Operating system.
-    -	Connectors available for the following Operating Systems.
-	    -	Ubuntu
-            -	Windows
-            -	Mac
-    -	Make Sure 8888 port is available for chainops connector.
+	-	GoTo URL - https://cc-chainops.com
+	-	Signup and Get the Chainops connector as per your Operating system.
+    	-	Connectors available for the following Operating Systems.
+	    		-Ubuntu
+            		-Windows
+            		-Mac
+    	-	Make Sure 8888 port is available for chainops connector.
 
 Note:
 -----
